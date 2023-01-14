@@ -1,0 +1,5 @@
+select customers
+select suppliers
+select company_products
+select company_orders
+select order_items
